@@ -1,0 +1,22 @@
+{
+  "name": "cl-wordguess",
+  "version": "1.0.0",
+  "description": "command line word guess game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/historybro/CL-WordGuess.git"
+  },
+  "author": "GSMIV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/historybro/CL-WordGuess/issues"
+  },
+  "homepage": "https://github.com/historybro/CL-WordGuess#readme",
+  "dependencies": {
+    "inquirer": "^6.2.2"
+  }
+}
